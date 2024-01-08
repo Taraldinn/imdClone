@@ -1,0 +1,1219 @@
+[
+    {
+        "label": "annotations",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "site",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "site",
+        "description": "site",
+        "detail": "site",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "get_asgi_application",
+        "importPath": "django.core.asgi",
+        "description": "django.core.asgi",
+        "isExtraImport": true,
+        "detail": "django.core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "admin",
+        "importPath": "django.contrib",
+        "description": "django.contrib",
+        "isExtraImport": true,
+        "detail": "django.contrib",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "re_path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "path",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "include",
+        "importPath": "django.urls",
+        "description": "django.urls",
+        "isExtraImport": true,
+        "detail": "django.urls",
+        "documentation": {}
+    },
+    {
+        "label": "permissions",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "permissions",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "serializers",
+        "importPath": "rest_framework",
+        "description": "rest_framework",
+        "isExtraImport": true,
+        "detail": "rest_framework",
+        "documentation": {}
+    },
+    {
+        "label": "get_schema_view",
+        "importPath": "drf_yasg.views",
+        "description": "drf_yasg.views",
+        "isExtraImport": true,
+        "detail": "drf_yasg.views",
+        "documentation": {}
+    },
+    {
+        "label": "openapi",
+        "importPath": "drf_yasg",
+        "description": "drf_yasg",
+        "isExtraImport": true,
+        "detail": "drf_yasg",
+        "documentation": {}
+    },
+    {
+        "label": "get_wsgi_application",
+        "importPath": "django.core.wsgi",
+        "description": "django.core.wsgi",
+        "isExtraImport": true,
+        "detail": "django.core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "Review",
+        "importPath": "watchlist.models",
+        "description": "watchlist.models",
+        "isExtraImport": true,
+        "detail": "watchlist.models",
+        "documentation": {}
+    },
+    {
+        "label": "WatchList",
+        "importPath": "watchlist.models",
+        "description": "watchlist.models",
+        "isExtraImport": true,
+        "detail": "watchlist.models",
+        "documentation": {}
+    },
+    {
+        "label": "StreamPlatform",
+        "importPath": "watchlist.models",
+        "description": "watchlist.models",
+        "isExtraImport": true,
+        "detail": "watchlist.models",
+        "documentation": {}
+    },
+    {
+        "label": "Review",
+        "importPath": "watchlist.models",
+        "description": "watchlist.models",
+        "isExtraImport": true,
+        "detail": "watchlist.models",
+        "documentation": {}
+    },
+    {
+        "label": "StreamPlatform",
+        "importPath": "watchlist.models",
+        "description": "watchlist.models",
+        "isExtraImport": true,
+        "detail": "watchlist.models",
+        "documentation": {}
+    },
+    {
+        "label": "WatchList",
+        "importPath": "watchlist.models",
+        "description": "watchlist.models",
+        "isExtraImport": true,
+        "detail": "watchlist.models",
+        "documentation": {}
+    },
+    {
+        "label": "Review",
+        "importPath": "watchlist.models",
+        "description": "watchlist.models",
+        "isExtraImport": true,
+        "detail": "watchlist.models",
+        "documentation": {}
+    },
+    {
+        "label": "WatchList",
+        "importPath": "watchlist.models",
+        "description": "watchlist.models",
+        "isExtraImport": true,
+        "detail": "watchlist.models",
+        "documentation": {}
+    },
+    {
+        "label": "StreamPlatform",
+        "importPath": "watchlist.models",
+        "description": "watchlist.models",
+        "isExtraImport": true,
+        "detail": "watchlist.models",
+        "documentation": {}
+    },
+    {
+        "label": "DefaultRouter",
+        "importPath": "rest_framework.routers",
+        "description": "rest_framework.routers",
+        "isExtraImport": true,
+        "detail": "rest_framework.routers",
+        "documentation": {}
+    },
+    {
+        "label": "StreamPlatformViewSets",
+        "importPath": "watchlist.api.views",
+        "description": "watchlist.api.views",
+        "isExtraImport": true,
+        "detail": "watchlist.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "ReviewList",
+        "importPath": "watchlist.api.views",
+        "description": "watchlist.api.views",
+        "isExtraImport": true,
+        "detail": "watchlist.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "ReviewDetail",
+        "importPath": "watchlist.api.views",
+        "description": "watchlist.api.views",
+        "isExtraImport": true,
+        "detail": "watchlist.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "ReviewCreate",
+        "importPath": "watchlist.api.views",
+        "description": "watchlist.api.views",
+        "isExtraImport": true,
+        "detail": "watchlist.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "WatchlistViewSet",
+        "importPath": "watchlist.api.views",
+        "description": "watchlist.api.views",
+        "isExtraImport": true,
+        "detail": "watchlist.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "ReviewSerializer",
+        "importPath": "watchlist.api.serializers",
+        "description": "watchlist.api.serializers",
+        "isExtraImport": true,
+        "detail": "watchlist.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "StreamPlatformSerializer",
+        "importPath": "watchlist.api.serializers",
+        "description": "watchlist.api.serializers",
+        "isExtraImport": true,
+        "detail": "watchlist.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "WatchListSerializer",
+        "importPath": "watchlist.api.serializers",
+        "description": "watchlist.api.serializers",
+        "isExtraImport": true,
+        "detail": "watchlist.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "ModelViewSet",
+        "importPath": "rest_framework.viewsets",
+        "description": "rest_framework.viewsets",
+        "isExtraImport": true,
+        "detail": "rest_framework.viewsets",
+        "documentation": {}
+    },
+    {
+        "label": "CreateAPIView",
+        "importPath": "rest_framework.generics",
+        "description": "rest_framework.generics",
+        "isExtraImport": true,
+        "detail": "rest_framework.generics",
+        "documentation": {}
+    },
+    {
+        "label": "ListAPIView",
+        "importPath": "rest_framework.generics",
+        "description": "rest_framework.generics",
+        "isExtraImport": true,
+        "detail": "rest_framework.generics",
+        "documentation": {}
+    },
+    {
+        "label": "DestroyAPIView",
+        "importPath": "rest_framework.generics",
+        "description": "rest_framework.generics",
+        "isExtraImport": true,
+        "detail": "rest_framework.generics",
+        "documentation": {}
+    },
+    {
+        "label": "UpdateAPIView",
+        "importPath": "rest_framework.generics",
+        "description": "rest_framework.generics",
+        "isExtraImport": true,
+        "detail": "rest_framework.generics",
+        "documentation": {}
+    },
+    {
+        "label": "RetrieveAPIView",
+        "importPath": "rest_framework.generics",
+        "description": "rest_framework.generics",
+        "isExtraImport": true,
+        "detail": "rest_framework.generics",
+        "documentation": {}
+    },
+    {
+        "label": "IsAuthenticatedOrReadOnly",
+        "importPath": "rest_framework.permissions",
+        "description": "rest_framework.permissions",
+        "isExtraImport": true,
+        "detail": "rest_framework.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "rest_framework.exceptions",
+        "description": "rest_framework.exceptions",
+        "isExtraImport": true,
+        "detail": "rest_framework.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "migrations",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "models",
+        "importPath": "django.db",
+        "description": "django.db",
+        "isExtraImport": true,
+        "detail": "django.db",
+        "documentation": {}
+    },
+    {
+        "label": "django.db.models.deletion",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.db.models.deletion",
+        "description": "django.db.models.deletion",
+        "detail": "django.db.models.deletion",
+        "documentation": {}
+    },
+    {
+        "label": "django.core.validators",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "django.core.validators",
+        "description": "django.core.validators",
+        "detail": "django.core.validators",
+        "documentation": {}
+    },
+    {
+        "label": "MinValueValidator",
+        "importPath": "django.core.validators",
+        "description": "django.core.validators",
+        "isExtraImport": true,
+        "detail": "django.core.validators",
+        "documentation": {}
+    },
+    {
+        "label": "MaxValueValidator",
+        "importPath": "django.core.validators",
+        "description": "django.core.validators",
+        "isExtraImport": true,
+        "detail": "django.core.validators",
+        "documentation": {}
+    },
+    {
+        "label": "settings",
+        "importPath": "django.conf",
+        "description": "django.conf",
+        "isExtraImport": true,
+        "detail": "django.conf",
+        "documentation": {}
+    },
+    {
+        "label": "AppConfig",
+        "importPath": "django.apps",
+        "description": "django.apps",
+        "isExtraImport": true,
+        "detail": "django.apps",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "django.contrib.auth.models",
+        "description": "django.contrib.auth.models",
+        "isExtraImport": true,
+        "detail": "django.contrib.auth.models",
+        "documentation": {}
+    },
+    {
+        "label": "TestCase",
+        "importPath": "django.test",
+        "description": "django.test",
+        "isExtraImport": true,
+        "detail": "django.test",
+        "documentation": {}
+    },
+    {
+        "label": "bin_dir",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "bin_dir = os.path.dirname(abs_file)\nbase = bin_dir[: -len(\"bin\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"imdbclone\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.12/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "base",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "base = bin_dir[: -len(\"bin\") - 1]  # strip away the bin part from the __file__, plus the path separator\n# prepend bin to PATH (this file is inside the bin directory)\nos.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"imdbclone\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.12/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"PATH\"]",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "os.environ[\"PATH\"] = os.pathsep.join([bin_dir, *os.environ.get(\"PATH\", \"\").split(os.pathsep)])\nos.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"imdbclone\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.12/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV\"]",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV\"] = base  # virtual env is right above bin directory\nos.environ[\"VIRTUAL_ENV_PROMPT\"] = \"imdbclone\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.12/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "os.environ[\"VIRTUAL_ENV_PROMPT\"]",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "os.environ[\"VIRTUAL_ENV_PROMPT\"] = \"imdbclone\" or os.path.basename(base)  # noqa: SIM222\n# add the virtual environments libraries to the host python import mechanism\nprev_length = len(sys.path)\nfor lib in \"../lib/python3.12/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "prev_length",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "prev_length = len(sys.path)\nfor lib in \"../lib/python3.12/site-packages\".split(os.pathsep):\n    path = os.path.realpath(os.path.join(bin_dir, lib))\n    site.addsitedir(path.decode(\"utf-8\") if \"\" else path)\nsys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.path[:]",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "sys.path[:] = sys.path[prev_length:] + sys.path[0:prev_length]\nsys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.real_prefix",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "sys.real_prefix = sys.prefix\nsys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "sys.prefix",
+        "kind": 5,
+        "importPath": ".venv.bin.activate_this",
+        "description": ".venv.bin.activate_this",
+        "peekOfCode": "sys.prefix = base",
+        "detail": ".venv.bin.activate_this",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "core.asgi",
+        "description": "core.asgi",
+        "peekOfCode": "application = get_asgi_application()",
+        "detail": "core.asgi",
+        "documentation": {}
+    },
+    {
+        "label": "BASE_DIR",
+        "kind": 5,
+        "importPath": "core.settings",
+        "description": "core.settings",
+        "peekOfCode": "BASE_DIR = Path(__file__).resolve().parent.parent\n# Quick-start development settings - unsuitable for production\n# See https://docs.djangoproject.com/en/5.0/howto/deployment/checklist/\n# SECURITY WARNING: keep the secret key used in production secret!\nSECRET_KEY = 'django-insecure-)&kktht%7cf77=3fs-cvpek+x(%=^i4g_k!*w@$q5$f4d(nd8o'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [",
+        "detail": "core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "core.settings",
+        "description": "core.settings",
+        "peekOfCode": "SECRET_KEY = 'django-insecure-)&kktht%7cf77=3fs-cvpek+x(%=^i4g_k!*w@$q5$f4d(nd8o'\n# SECURITY WARNING: don't run with debug turned on in production!\nDEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',",
+        "detail": "core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEBUG",
+        "kind": 5,
+        "importPath": "core.settings",
+        "description": "core.settings",
+        "peekOfCode": "DEBUG = True\nALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',",
+        "detail": "core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ALLOWED_HOSTS",
+        "kind": 5,
+        "importPath": "core.settings",
+        "description": "core.settings",
+        "peekOfCode": "ALLOWED_HOSTS = []\n# Application definition\nINSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',",
+        "detail": "core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "INSTALLED_APPS",
+        "kind": 5,
+        "importPath": "core.settings",
+        "description": "core.settings",
+        "peekOfCode": "INSTALLED_APPS = [\n    'django.contrib.admin',\n    'django.contrib.auth',\n    'django.contrib.contenttypes',\n    'django.contrib.sessions',\n    'django.contrib.messages',\n    'django.contrib.staticfiles',\n    'rest_framework',\n    'rest_framework_swagger',\n    'drf_yasg',",
+        "detail": "core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "MIDDLEWARE",
+        "kind": 5,
+        "importPath": "core.settings",
+        "description": "core.settings",
+        "peekOfCode": "MIDDLEWARE = [\n    'django.middleware.security.SecurityMiddleware',\n    'django.contrib.sessions.middleware.SessionMiddleware',\n    'django.middleware.common.CommonMiddleware',\n    'django.middleware.csrf.CsrfViewMiddleware',\n    'django.contrib.auth.middleware.AuthenticationMiddleware',\n    'django.contrib.messages.middleware.MessageMiddleware',\n    'django.middleware.clickjacking.XFrameOptionsMiddleware',\n]\nROOT_URLCONF = 'core.urls'",
+        "detail": "core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "ROOT_URLCONF",
+        "kind": 5,
+        "importPath": "core.settings",
+        "description": "core.settings",
+        "peekOfCode": "ROOT_URLCONF = 'core.urls'\nTEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',",
+        "detail": "core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TEMPLATES",
+        "kind": 5,
+        "importPath": "core.settings",
+        "description": "core.settings",
+        "peekOfCode": "TEMPLATES = [\n    {\n        'BACKEND': 'django.template.backends.django.DjangoTemplates',\n        'DIRS': [],\n        'APP_DIRS': True,\n        'OPTIONS': {\n            'context_processors': [\n                'django.template.context_processors.debug',\n                'django.template.context_processors.request',\n                'django.contrib.auth.context_processors.auth',",
+        "detail": "core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "WSGI_APPLICATION",
+        "kind": 5,
+        "importPath": "core.settings",
+        "description": "core.settings",
+        "peekOfCode": "WSGI_APPLICATION = 'core.wsgi.application'\n# Database\n# https://docs.djangoproject.com/en/5.0/ref/settings/#databases\nDATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation",
+        "detail": "core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASES",
+        "kind": 5,
+        "importPath": "core.settings",
+        "description": "core.settings",
+        "peekOfCode": "DATABASES = {\n    'default': {\n        'ENGINE': 'django.db.backends.sqlite3',\n        'NAME': BASE_DIR / 'db.sqlite3',\n    }\n}\n# Password validation\n# https://docs.djangoproject.com/en/5.0/ref/settings/#auth-password-validators\nAUTH_PASSWORD_VALIDATORS = [\n    {",
+        "detail": "core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "AUTH_PASSWORD_VALIDATORS",
+        "kind": 5,
+        "importPath": "core.settings",
+        "description": "core.settings",
+        "peekOfCode": "AUTH_PASSWORD_VALIDATORS = [\n    {\n        'NAME': 'django.contrib.auth.password_validation.UserAttributeSimilarityValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.MinimumLengthValidator',\n    },\n    {\n        'NAME': 'django.contrib.auth.password_validation.CommonPasswordValidator',\n    },",
+        "detail": "core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "LANGUAGE_CODE",
+        "kind": 5,
+        "importPath": "core.settings",
+        "description": "core.settings",
+        "peekOfCode": "LANGUAGE_CODE = 'en-us'\nTIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'",
+        "detail": "core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "TIME_ZONE",
+        "kind": 5,
+        "importPath": "core.settings",
+        "description": "core.settings",
+        "peekOfCode": "TIME_ZONE = 'UTC'\nUSE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nSWAGGER_SETTINGS = {",
+        "detail": "core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_I18N",
+        "kind": 5,
+        "importPath": "core.settings",
+        "description": "core.settings",
+        "peekOfCode": "USE_I18N = True\nUSE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nSWAGGER_SETTINGS = {\n    'VALIDATOR_URL': 'http://localhost:8189',",
+        "detail": "core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "USE_TZ",
+        "kind": 5,
+        "importPath": "core.settings",
+        "description": "core.settings",
+        "peekOfCode": "USE_TZ = True\n# Static files (CSS, JavaScript, Images)\n# https://docs.djangoproject.com/en/5.0/howto/static-files/\nSTATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nSWAGGER_SETTINGS = {\n    'VALIDATOR_URL': 'http://localhost:8189',\n}",
+        "detail": "core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "STATIC_URL",
+        "kind": 5,
+        "importPath": "core.settings",
+        "description": "core.settings",
+        "peekOfCode": "STATIC_URL = 'static/'\n# Default primary key field type\n# https://docs.djangoproject.com/en/5.0/ref/settings/#default-auto-field\nDEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nSWAGGER_SETTINGS = {\n    'VALIDATOR_URL': 'http://localhost:8189',\n}\n#  django rest framework settings \nREST_FRAMEWORK = {\n    'DEFAULT_PERMISSION_CLASSES': [",
+        "detail": "core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "DEFAULT_AUTO_FIELD",
+        "kind": 5,
+        "importPath": "core.settings",
+        "description": "core.settings",
+        "peekOfCode": "DEFAULT_AUTO_FIELD = 'django.db.models.BigAutoField'\nSWAGGER_SETTINGS = {\n    'VALIDATOR_URL': 'http://localhost:8189',\n}\n#  django rest framework settings \nREST_FRAMEWORK = {\n    'DEFAULT_PERMISSION_CLASSES': [\n        'rest_framework.permissions.IsAuthenticated',\n    ]\n}",
+        "detail": "core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "SWAGGER_SETTINGS",
+        "kind": 5,
+        "importPath": "core.settings",
+        "description": "core.settings",
+        "peekOfCode": "SWAGGER_SETTINGS = {\n    'VALIDATOR_URL': 'http://localhost:8189',\n}\n#  django rest framework settings \nREST_FRAMEWORK = {\n    'DEFAULT_PERMISSION_CLASSES': [\n        'rest_framework.permissions.IsAuthenticated',\n    ]\n}",
+        "detail": "core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "REST_FRAMEWORK",
+        "kind": 5,
+        "importPath": "core.settings",
+        "description": "core.settings",
+        "peekOfCode": "REST_FRAMEWORK = {\n    'DEFAULT_PERMISSION_CLASSES': [\n        'rest_framework.permissions.IsAuthenticated',\n    ]\n}",
+        "detail": "core.settings",
+        "documentation": {}
+    },
+    {
+        "label": "schema_view",
+        "kind": 5,
+        "importPath": "core.urls",
+        "description": "core.urls",
+        "peekOfCode": "schema_view = get_schema_view(\n   openapi.Info(\n      title=\"Snippets API\",\n      default_version='v1',\n      description=\"Test description\",\n      terms_of_service=\"https://www.google.com/policies/terms/\",\n      contact=openapi.Contact(email=\"contact@snippets.local\"),\n      license=openapi.License(name=\"BSD License\"),\n   ),\n   public=True,",
+        "detail": "core.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "core.urls",
+        "description": "core.urls",
+        "peekOfCode": "urlpatterns = [\n    path('admin/', admin.site.urls),\n    path('', include('watchlist.api.urls')),\n    path('api-auth/', include('rest_framework.urls', namespace='rest_framework')),\n    path('swagger<format>/', schema_view.without_ui(cache_timeout=0), name='schema-json'),\n    path('swagger/', schema_view.with_ui('swagger', cache_timeout=0), name='schema-swagger-ui'),\n    path('redoc/', schema_view.with_ui('redoc', cache_timeout=0), name='schema-redoc'),\n]",
+        "detail": "core.urls",
+        "documentation": {}
+    },
+    {
+        "label": "application",
+        "kind": 5,
+        "importPath": "core.wsgi",
+        "description": "core.wsgi",
+        "peekOfCode": "application = get_wsgi_application()",
+        "detail": "core.wsgi",
+        "documentation": {}
+    },
+    {
+        "label": "total",
+        "kind": 5,
+        "importPath": "watchlist.api.main",
+        "description": "watchlist.api.main",
+        "peekOfCode": "total = {'fardin': [50, 60, 70]}\n# print(total['fardin'][0])\nj = 0 \nfor i in total['fardin']:\n    j += i \ntotal_x = j\navarage_x = j / len(total['fardin'])\nprint(avarage_x)",
+        "detail": "watchlist.api.main",
+        "documentation": {}
+    },
+    {
+        "label": "j",
+        "kind": 5,
+        "importPath": "watchlist.api.main",
+        "description": "watchlist.api.main",
+        "peekOfCode": "j = 0 \nfor i in total['fardin']:\n    j += i \ntotal_x = j\navarage_x = j / len(total['fardin'])\nprint(avarage_x)",
+        "detail": "watchlist.api.main",
+        "documentation": {}
+    },
+    {
+        "label": "total_x",
+        "kind": 5,
+        "importPath": "watchlist.api.main",
+        "description": "watchlist.api.main",
+        "peekOfCode": "total_x = j\navarage_x = j / len(total['fardin'])\nprint(avarage_x)",
+        "detail": "watchlist.api.main",
+        "documentation": {}
+    },
+    {
+        "label": "avarage_x",
+        "kind": 5,
+        "importPath": "watchlist.api.main",
+        "description": "watchlist.api.main",
+        "peekOfCode": "avarage_x = j / len(total['fardin'])\nprint(avarage_x)",
+        "detail": "watchlist.api.main",
+        "documentation": {}
+    },
+    {
+        "label": "AdminOrReadOnly",
+        "kind": 6,
+        "importPath": "watchlist.api.permissions",
+        "description": "watchlist.api.permissions",
+        "peekOfCode": "class AdminOrReadOnly(permissions.IsAdminUser):\n    def has_permission(self, request, view):\n        admin_permission = bool(request.user and request.user.is_staff)\n        return request.method in permissions.SAFE_METHODS or admin_permission",
+        "detail": "watchlist.api.permissions",
+        "documentation": {}
+    },
+    {
+        "label": "ReviewSerializer",
+        "kind": 6,
+        "importPath": "watchlist.api.serializers",
+        "description": "watchlist.api.serializers",
+        "peekOfCode": "class ReviewSerializer(serializers.ModelSerializer):\n    user = serializers.StringRelatedField(read_only=True)    \n    class Meta:\n        model = Review\n        # fields = '__all__'\n        exclude = ['watchlist']\nclass WatchListSerializer(serializers.ModelSerializer):\n    reviews = ReviewSerializer(many=True, read_only=True)\n    class Meta:\n        model = WatchList",
+        "detail": "watchlist.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "WatchListSerializer",
+        "kind": 6,
+        "importPath": "watchlist.api.serializers",
+        "description": "watchlist.api.serializers",
+        "peekOfCode": "class WatchListSerializer(serializers.ModelSerializer):\n    reviews = ReviewSerializer(many=True, read_only=True)\n    class Meta:\n        model = WatchList\n        fields = '__all__'\n        # exclude = ['active']\nclass StreamPlatformSerializer(serializers.HyperlinkedModelSerializer):\n    watch = WatchListSerializer(many=True)\n    class Meta:\n        model = StreamPlatform",
+        "detail": "watchlist.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "StreamPlatformSerializer",
+        "kind": 6,
+        "importPath": "watchlist.api.serializers",
+        "description": "watchlist.api.serializers",
+        "peekOfCode": "class StreamPlatformSerializer(serializers.HyperlinkedModelSerializer):\n    watch = WatchListSerializer(many=True)\n    class Meta:\n        model = StreamPlatform\n        fields = '__all__'",
+        "detail": "watchlist.api.serializers",
+        "documentation": {}
+    },
+    {
+        "label": "router",
+        "kind": 5,
+        "importPath": "watchlist.api.urls",
+        "description": "watchlist.api.urls",
+        "peekOfCode": "router = DefaultRouter()\nrouter.register('stream', StreamPlatformViewSets, basename='streamplatform')\nrouter.register('list', WatchlistViewSet, basename='watchlist')\nurlpatterns = [\n    # path(\"list/\", WatchListAV.as_view(), name='movie-list'),\n    # path(\"list/<int:pk>/\", WatchDetailAV.as_view(), name='movie-detail'),\n    # path(\"stream/\", StreamPlatformAV.as_view(), name='stream-list'),\n    # path(\"stream/<int:pk>/\", StreamPlatformDetailAV.as_view(), name='streamplatform-detail'),\n    # path('review/', ReviewList.as_view(), name='review-list'),\n    # path('review/<int:pk>/', ReviewDetail.as_view(), name='review-detail'),",
+        "detail": "watchlist.api.urls",
+        "documentation": {}
+    },
+    {
+        "label": "urlpatterns",
+        "kind": 5,
+        "importPath": "watchlist.api.urls",
+        "description": "watchlist.api.urls",
+        "peekOfCode": "urlpatterns = [\n    # path(\"list/\", WatchListAV.as_view(), name='movie-list'),\n    # path(\"list/<int:pk>/\", WatchDetailAV.as_view(), name='movie-detail'),\n    # path(\"stream/\", StreamPlatformAV.as_view(), name='stream-list'),\n    # path(\"stream/<int:pk>/\", StreamPlatformDetailAV.as_view(), name='streamplatform-detail'),\n    # path('review/', ReviewList.as_view(), name='review-list'),\n    # path('review/<int:pk>/', ReviewDetail.as_view(), name='review-detail'),\n    path('', include(router.urls)),\n    path('stream/<int:pk>/review', ReviewList.as_view(), name='review-detail'),\n    path('stream/review/<int:pk>', ReviewDetail.as_view(), name='review-list'),",
+        "detail": "watchlist.api.urls",
+        "documentation": {}
+    },
+    {
+        "label": "StreamPlatformViewSets",
+        "kind": 6,
+        "importPath": "watchlist.api.views",
+        "description": "watchlist.api.views",
+        "peekOfCode": "class StreamPlatformViewSets(ModelViewSet):\n    queryset = StreamPlatform.objects.all()\n    serializer_class = StreamPlatformSerializer\nclass WatchlistViewSet(ModelViewSet):\n    queryset = WatchList.objects.all()\n    serializer_class = WatchListSerializer\nclass ReviewList(ListAPIView, CreateAPIView):\n    queryset = Review.objects.all()\n    serializer_class = ReviewSerializer\n    permission_classes = [IsAuthenticatedOrReadOnly]",
+        "detail": "watchlist.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "WatchlistViewSet",
+        "kind": 6,
+        "importPath": "watchlist.api.views",
+        "description": "watchlist.api.views",
+        "peekOfCode": "class WatchlistViewSet(ModelViewSet):\n    queryset = WatchList.objects.all()\n    serializer_class = WatchListSerializer\nclass ReviewList(ListAPIView, CreateAPIView):\n    queryset = Review.objects.all()\n    serializer_class = ReviewSerializer\n    permission_classes = [IsAuthenticatedOrReadOnly]\n    def get_queryset(self):\n        pk = self.kwargs['pk']\n        return Review.objects.filter(watchlist=pk)",
+        "detail": "watchlist.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "ReviewList",
+        "kind": 6,
+        "importPath": "watchlist.api.views",
+        "description": "watchlist.api.views",
+        "peekOfCode": "class ReviewList(ListAPIView, CreateAPIView):\n    queryset = Review.objects.all()\n    serializer_class = ReviewSerializer\n    permission_classes = [IsAuthenticatedOrReadOnly]\n    def get_queryset(self):\n        pk = self.kwargs['pk']\n        return Review.objects.filter(watchlist=pk)\nclass ReviewDetail(DestroyAPIView, UpdateAPIView, RetrieveAPIView):\n    queryset = Review.objects.all()\n    serializer_class = ReviewSerializer",
+        "detail": "watchlist.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "ReviewDetail",
+        "kind": 6,
+        "importPath": "watchlist.api.views",
+        "description": "watchlist.api.views",
+        "peekOfCode": "class ReviewDetail(DestroyAPIView, UpdateAPIView, RetrieveAPIView):\n    queryset = Review.objects.all()\n    serializer_class = ReviewSerializer\nclass ReviewCreate(CreateAPIView):\n    serializer_class = ReviewSerializer\n    def perform_create(self, serializer):\n        pk = self.kwargs['pk']\n        watchlist = WatchList.objects.get(pk=pk)\n        review_user = self.request.user\n        review_queryset = Review.objects.filter(watchlist=watchlist, user=review_user)",
+        "detail": "watchlist.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "ReviewCreate",
+        "kind": 6,
+        "importPath": "watchlist.api.views",
+        "description": "watchlist.api.views",
+        "peekOfCode": "class ReviewCreate(CreateAPIView):\n    serializer_class = ReviewSerializer\n    def perform_create(self, serializer):\n        pk = self.kwargs['pk']\n        watchlist = WatchList.objects.get(pk=pk)\n        review_user = self.request.user\n        review_queryset = Review.objects.filter(watchlist=watchlist, user=review_user)\n        if review_queryset.exists():\n            raise ValidationError(\"You have already reviewed this movie\")\n        serializer.save(watchlist=watchlist)",
+        "detail": "watchlist.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "ReviewViewSet",
+        "kind": 6,
+        "importPath": "watchlist.api.views",
+        "description": "watchlist.api.views",
+        "peekOfCode": "class ReviewViewSet(ViewSet):\n    def list(self, request):\n        queryset = Review.objects.all()\n        serializer = ReviewSerializer(queryset, many=True)\n        return Response(serializer.data)\n    def retrieve(self, request, pk=None):\n        queryset = Review.objects.all()\n        review = get_object_or_404(queryset, pk=pk)\n        serializer = ReviewSerializer(review)\n        return Response(serializer.data)",
+        "detail": "watchlist.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "StreamPlatformViewSets",
+        "kind": 6,
+        "importPath": "watchlist.api.views",
+        "description": "watchlist.api.views",
+        "peekOfCode": "class StreamPlatformViewSets(ViewSet):\n    def list(self, request):\n        queryset = StreamPlatform.objects.all()\n        serializer = StreamPlatformSerializer(queryset, many=True, context={'request': request})\n        return Response(serializer.data)\n    def retrieve(self, request, pk=None):\n        queryset = StreamPlatform.objects.all()\n        platform = get_object_or_404(queryset, pk=pk)\n        serializer = StreamPlatformSerializer(platform, context={'request': request})\n        return Response(serializer.data)",
+        "detail": "watchlist.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "StreamPlatformAV",
+        "kind": 6,
+        "importPath": "watchlist.api.views",
+        "description": "watchlist.api.views",
+        "peekOfCode": "class StreamPlatformAV(ListAPIView, CreateAPIView):\n    queryset = StreamPlatform.objects.all()\n    serializer_class = StreamPlatformSerializer\nclass StreamPlatformDetailAV(DestroyAPIView, UpdateAPIView, RetrieveAPIView):\n    queryset = StreamPlatform.objects.all()\n    serializer_class = StreamPlatformSerializer\nclass WatchListAV(ListAPIView, CreateAPIView):\n    queryset = WatchList.objects.all()\n    serializer_class = WatchListSerializer\nclass WatchDetailAV(DestroyAPIView, UpdateAPIView, RetrieveAPIView):",
+        "detail": "watchlist.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "StreamPlatformDetailAV",
+        "kind": 6,
+        "importPath": "watchlist.api.views",
+        "description": "watchlist.api.views",
+        "peekOfCode": "class StreamPlatformDetailAV(DestroyAPIView, UpdateAPIView, RetrieveAPIView):\n    queryset = StreamPlatform.objects.all()\n    serializer_class = StreamPlatformSerializer\nclass WatchListAV(ListAPIView, CreateAPIView):\n    queryset = WatchList.objects.all()\n    serializer_class = WatchListSerializer\nclass WatchDetailAV(DestroyAPIView, UpdateAPIView, RetrieveAPIView):\n    queryset = WatchList.objects.all()\n    serializer_class = WatchListSerializer\n\"\"\"",
+        "detail": "watchlist.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "WatchListAV",
+        "kind": 6,
+        "importPath": "watchlist.api.views",
+        "description": "watchlist.api.views",
+        "peekOfCode": "class WatchListAV(ListAPIView, CreateAPIView):\n    queryset = WatchList.objects.all()\n    serializer_class = WatchListSerializer\nclass WatchDetailAV(DestroyAPIView, UpdateAPIView, RetrieveAPIView):\n    queryset = WatchList.objects.all()\n    serializer_class = WatchListSerializer\n\"\"\"\n\"\"\"",
+        "detail": "watchlist.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "WatchDetailAV",
+        "kind": 6,
+        "importPath": "watchlist.api.views",
+        "description": "watchlist.api.views",
+        "peekOfCode": "class WatchDetailAV(DestroyAPIView, UpdateAPIView, RetrieveAPIView):\n    queryset = WatchList.objects.all()\n    serializer_class = WatchListSerializer\n\"\"\"\n\"\"\"\nModel View Mixins Done\n\"\"\"\n# TODO: Class based views Mixins here is the same as the function based views\n\"\"\"\nclass ReviewList(ListModelMixin,CreateModelMixin,GenericAPIView):",
+        "detail": "watchlist.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "ReviewList",
+        "kind": 6,
+        "importPath": "watchlist.api.views",
+        "description": "watchlist.api.views",
+        "peekOfCode": "class ReviewList(ListModelMixin,CreateModelMixin,GenericAPIView):\n    queryset = Review.objects.all()\n    serializer_class = ReviewSerializer\n    def get(self, request, *args, **kwargs):\n        return self.list(request, *args, **kwargs)\n    def post(self,request, *args, **kwargs):\n        return self.create(request, *args, **kwargs)\nclass ReviewDetail(RetrieveModelMixin,DestroyModelMixin,UpdateModelMixin, GenericAPIView):\n    queryset = Review.objects.all()\n    serializer_class = ReviewSerializer",
+        "detail": "watchlist.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "ReviewDetail",
+        "kind": 6,
+        "importPath": "watchlist.api.views",
+        "description": "watchlist.api.views",
+        "peekOfCode": "class ReviewDetail(RetrieveModelMixin,DestroyModelMixin,UpdateModelMixin, GenericAPIView):\n    queryset = Review.objects.all()\n    serializer_class = ReviewSerializer\n    def get(self, request, *args, **kwargs):\n        return self.retrieve(request, *args, **kwargs)\n    def put (self, request, *args, **kwargs):\n        return self.update(request, *args, **kwargs)\n    def delete(self, request, *args, **kwargs):\n        return self.destroy(request, *args, **kwargs)\nclass StreamPlatformAV(ListModelMixin,CreateModelMixin,GenericAPIView):",
+        "detail": "watchlist.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "StreamPlatformAV",
+        "kind": 6,
+        "importPath": "watchlist.api.views",
+        "description": "watchlist.api.views",
+        "peekOfCode": "class StreamPlatformAV(ListModelMixin,CreateModelMixin,GenericAPIView):\n    queryset = StreamPlatform.objects.all()\n    serializer_class = StreamPlatformSerializer\n    def get(self, request, *args, **kwargs):\n        return self.list(request, *args, **kwargs)\n    def post(self,request, *args, **kwargs):\n        return self.create(request, *args, **kwargs)\nclass StreamPlatformDetailAV(RetrieveModelMixin,DestroyModelMixin,UpdateModelMixin, GenericAPIView):\n    queryset = StreamPlatform.objects.all()\n    serializer_class = StreamPlatformSerializer",
+        "detail": "watchlist.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "StreamPlatformDetailAV",
+        "kind": 6,
+        "importPath": "watchlist.api.views",
+        "description": "watchlist.api.views",
+        "peekOfCode": "class StreamPlatformDetailAV(RetrieveModelMixin,DestroyModelMixin,UpdateModelMixin, GenericAPIView):\n    queryset = StreamPlatform.objects.all()\n    serializer_class = StreamPlatformSerializer\n    def get(self, request, *args, **kwargs):\n        return self.retrieve(request, *args, **kwargs)\n    def put (self, request, *args, **kwargs):\n        return self.update(request, *args, **kwargs)\n    def delete(self, request, *args, **kwargs):\n        return self.destroy(request, *args, **kwargs)\nclass WatchListAV(ListModelMixin,CreateModelMixin,GenericAPIView):",
+        "detail": "watchlist.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "WatchListAV",
+        "kind": 6,
+        "importPath": "watchlist.api.views",
+        "description": "watchlist.api.views",
+        "peekOfCode": "class WatchListAV(ListModelMixin,CreateModelMixin,GenericAPIView):\n    queryset = WatchList.objects.all()\n    serializer_class = WatchListSerializer\n    def get(self, request, *args, **kwargs):\n        return self.list(request, *args, **kwargs)\n    def post(self,request, *args, **kwargs):\n        return self.create(request, *args, **kwargs)\nclass WatchDetailAV(RetrieveModelMixin,DestroyModelMixin,UpdateModelMixin,GenericAPIView ):\n    queryset = WatchList.objects.all()\n    serializer_class = WatchListSerializer",
+        "detail": "watchlist.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "WatchDetailAV",
+        "kind": 6,
+        "importPath": "watchlist.api.views",
+        "description": "watchlist.api.views",
+        "peekOfCode": "class WatchDetailAV(RetrieveModelMixin,DestroyModelMixin,UpdateModelMixin,GenericAPIView ):\n    queryset = WatchList.objects.all()\n    serializer_class = WatchListSerializer\n    def get(self, request, *args, **kwargs):\n        return self.retrieve(request, *args, **kwargs)\n    def put (self, request, *args, **kwargs):\n        return self.update(request, *args, **kwargs)\n    def delete(self, request, *args, **kwargs):\n        return self.destroy(request, *args, **kwargs)\n\"\"\"",
+        "detail": "watchlist.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "StreamPlatformAV",
+        "kind": 6,
+        "importPath": "watchlist.api.views",
+        "description": "watchlist.api.views",
+        "peekOfCode": "class StreamPlatformAV(APIView):\n    def get(self, request):\n        platform = StreamPlatform.objects.all()\n        serializer = StreamPlatformSerializer(platform, many=True, context = {'request': request})\n        return Response(serializer.data)\n    def post(self, request):\n        serializer = StreamPlatformSerializer(data=request.data)\n        if serializer.is_valid():\n            serializer.save()\n            return Response(serializer.data)",
+        "detail": "watchlist.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "StreamPlatformDetailAV",
+        "kind": 6,
+        "importPath": "watchlist.api.views",
+        "description": "watchlist.api.views",
+        "peekOfCode": "class StreamPlatformDetailAV(APIView):\n    def get(self, request, id):\n        try:\n            platform = StreamPlatform.objects.get(id=id)\n        except StreamPlatform.DoesNotExist:\n            return Response({'error': 'Platform not found'}, status=status.HTTP_404_NOT_FOUND)\n        serializer = StreamPlatformSerializer(platform)\n        return Response(serializer.data)\n    def put(self, request, id):\n        platform = StreamPlatform.objects.get(id=id)",
+        "detail": "watchlist.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "WatchListAV",
+        "kind": 6,
+        "importPath": "watchlist.api.views",
+        "description": "watchlist.api.views",
+        "peekOfCode": "class WatchListAV(APIView):\n    def get(self, request):\n        movies = WatchList.objects.all()\n        serializer = WatchListSerializer(movies, many=True)\n        return Response(serializer.data)\n    def post(self, request):\n        serializer = WatchListSerializer(data=request.data)\n        if serializer.is_valid():\n            serializer.save()\n            return Response(serializer.data)",
+        "detail": "watchlist.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "WatchDetailAV",
+        "kind": 6,
+        "importPath": "watchlist.api.views",
+        "description": "watchlist.api.views",
+        "peekOfCode": "class WatchDetailAV(APIView):\n    def get(self, request, pk):\n        try:\n            movie = WatchList.objects.get(pk=pk)\n        except WatchList.DoesNotExist:\n            return Response({'error': 'Movie not found'}, status=status.HTTP_404_NOT_FOUND)\n        serializer = WatchListSerializer(movie)\n        return Response(serializer.data)\n    def put(self, request, pk):\n        movie = WatchList.objects.get(pk=pk)",
+        "detail": "watchlist.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "movie_list",
+        "kind": 2,
+        "importPath": "watchlist.api.views",
+        "description": "watchlist.api.views",
+        "peekOfCode": "def movie_list(request):\n    movies = Movie.objects.all()\n    if request.method == 'POST':\n        serializer = MovieSerializer(data=request.data)\n        if serializer.is_valid():\n            serializer.save()\n            return Response(serializer.data)\n        else:\n            return Response(serializer.errors)\n    if request.method == 'GET':",
+        "detail": "watchlist.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "movie_detail",
+        "kind": 2,
+        "importPath": "watchlist.api.views",
+        "description": "watchlist.api.views",
+        "peekOfCode": "def movie_detail(request, pk):\n    try:\n        movie = Movie.objects.get(pk=pk)\n    except Movie.DoesNotExist:\n        return Response({'error': 'Movie not found'}, status=status.HTTP_404_NOT_FOUND)\n    if request.method == 'GET':\n        serializer = MovieSerializer(movie)\n        return Response(serializer.data)\n    if request.method == 'PUT':\n        serializer = MovieSerializer(movie, data=request.data)",
+        "detail": "watchlist.api.views",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "watchlist.migrations.0001_initial",
+        "description": "watchlist.migrations.0001_initial",
+        "peekOfCode": "class Migration(migrations.Migration):\n    initial = True\n    dependencies = [\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Movie',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=200)),",
+        "detail": "watchlist.migrations.0001_initial",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "watchlist.migrations.0002_streamplatform_watchlist_delete_movie",
+        "description": "watchlist.migrations.0002_streamplatform_watchlist_delete_movie",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('watchlist', '0001_initial'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='StreamPlatform',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('name', models.CharField(max_length=200)),",
+        "detail": "watchlist.migrations.0002_streamplatform_watchlist_delete_movie",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "watchlist.migrations.0003_watchlist_platform",
+        "description": "watchlist.migrations.0003_watchlist_platform",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('watchlist', '0002_streamplatform_watchlist_delete_movie'),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='watchlist',\n            name='platform',\n            field=models.ForeignKey(default=1, on_delete=django.db.models.deletion.CASCADE, related_name='watchlist', to='watchlist.streamplatform'),\n            preserve_default=False,",
+        "detail": "watchlist.migrations.0003_watchlist_platform",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "watchlist.migrations.0004_alter_watchlist_platform",
+        "description": "watchlist.migrations.0004_alter_watchlist_platform",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('watchlist', '0003_watchlist_platform'),\n    ]\n    operations = [\n        migrations.AlterField(\n            model_name='watchlist',\n            name='platform',\n            field=models.ForeignKey(on_delete=django.db.models.deletion.CASCADE, related_name='watch', to='watchlist.streamplatform'),\n        ),",
+        "detail": "watchlist.migrations.0004_alter_watchlist_platform",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "watchlist.migrations.0005_review",
+        "description": "watchlist.migrations.0005_review",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('watchlist', '0004_alter_watchlist_platform'),\n    ]\n    operations = [\n        migrations.CreateModel(\n            name='Review',\n            fields=[\n                ('id', models.BigAutoField(auto_created=True, primary_key=True, serialize=False, verbose_name='ID')),\n                ('rating', models.PositiveIntegerField(validators=[django.core.validators.MinValueValidator(1), django.core.validators.MaxValueValidator(5)])),",
+        "detail": "watchlist.migrations.0005_review",
+        "documentation": {}
+    },
+    {
+        "label": "Migration",
+        "kind": 6,
+        "importPath": "watchlist.migrations.0006_review_user",
+        "description": "watchlist.migrations.0006_review_user",
+        "peekOfCode": "class Migration(migrations.Migration):\n    dependencies = [\n        ('watchlist', '0005_review'),\n        migrations.swappable_dependency(settings.AUTH_USER_MODEL),\n    ]\n    operations = [\n        migrations.AddField(\n            model_name='review',\n            name='user',\n            field=models.ForeignKey(default=1, on_delete=django.db.models.deletion.CASCADE, related_name='reviews', to=settings.AUTH_USER_MODEL),",
+        "detail": "watchlist.migrations.0006_review_user",
+        "documentation": {}
+    },
+    {
+        "label": "WatchlistConfig",
+        "kind": 6,
+        "importPath": "watchlist.apps",
+        "description": "watchlist.apps",
+        "peekOfCode": "class WatchlistConfig(AppConfig):\n    default_auto_field = 'django.db.models.BigAutoField'\n    name = 'watchlist'",
+        "detail": "watchlist.apps",
+        "documentation": {}
+    },
+    {
+        "label": "StreamPlatform",
+        "kind": 6,
+        "importPath": "watchlist.models",
+        "description": "watchlist.models",
+        "peekOfCode": "class StreamPlatform(models.Model):\n    name = models.CharField(max_length=200)\n    about = models.TextField()\n    website = models.URLField(max_length=200)\n    def __str__(self):\n        return self.name\nclass WatchList(models.Model):\n    title = models.CharField(max_length=200)\n    storyline = models.TextField()\n    platform = models.ForeignKey(StreamPlatform, on_delete=models.CASCADE, related_name='watch')",
+        "detail": "watchlist.models",
+        "documentation": {}
+    },
+    {
+        "label": "WatchList",
+        "kind": 6,
+        "importPath": "watchlist.models",
+        "description": "watchlist.models",
+        "peekOfCode": "class WatchList(models.Model):\n    title = models.CharField(max_length=200)\n    storyline = models.TextField()\n    platform = models.ForeignKey(StreamPlatform, on_delete=models.CASCADE, related_name='watch')\n    active = models.BooleanField(default=True)\n    created = models.DateTimeField(auto_now_add=True)\n    def __str__(self):\n        return self.title\nclass Review(models.Model):\n    user = models.ForeignKey(User, on_delete=models.CASCADE, related_name='reviews')",
+        "detail": "watchlist.models",
+        "documentation": {}
+    },
+    {
+        "label": "Review",
+        "kind": 6,
+        "importPath": "watchlist.models",
+        "description": "watchlist.models",
+        "peekOfCode": "class Review(models.Model):\n    user = models.ForeignKey(User, on_delete=models.CASCADE, related_name='reviews')\n    rating = models.PositiveIntegerField(validators=[MinValueValidator(1), MaxValueValidator(5)])\n    description = models.CharField(max_length=500, null=True)\n    created = models.DateTimeField(auto_now_add=True)\n    updated = models.DateTimeField(auto_now=True)\n    active = models.BooleanField(default=True)\n    watchlist = models.ForeignKey(WatchList, on_delete=models.CASCADE, related_name='reviews')\n    def __str__(self):\n        return str(self.rating) + \" | \" + self.watchlist.title",
+        "detail": "watchlist.models",
+        "documentation": {}
+    },
+    {
+        "label": "main",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def main():\n    \"\"\"Run administrative tasks.\"\"\"\n    os.environ.setdefault('DJANGO_SETTINGS_MODULE', 'core.settings')\n    try:\n        from django.core.management import execute_from_command_line\n    except ImportError as exc:\n        raise ImportError(\n            \"Couldn't import Django. Are you sure it's installed and \"\n            \"available on your PYTHONPATH environment variable? Did you \"\n            \"forget to activate a virtual environment?\"",
+        "detail": "manage",
+        "documentation": {}
+    }
+]
