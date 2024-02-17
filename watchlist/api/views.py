@@ -1,25 +1,28 @@
-from watchlist.api.permissions import ReviewUserOrReadOnly
+from watchlist.api.permissions import ReviewUserOrReadOnly, AdminOrReadOnly
 from watchlist.api.serializers import ReviewSerializer, StreamPlatformSerializer, WatchListSerializer
 from watchlist.models import Review, StreamPlatform, WatchList
 from rest_framework.viewsets import ModelViewSet
-from rest_framework.generics import CreateAPIView, ListAPIView, DestroyAPIView,UpdateAPIView,RetrieveAPIView
+from rest_framework.generics import CreateAPIView, ListAPIView, DestroyAPIView, UpdateAPIView, RetrieveAPIView
 from rest_framework.permissions import IsAuthenticatedOrReadOnly
 from rest_framework.exceptions import ValidationError
 
-# TODO: This are model viewsets for pratice 
+
+# TODO: This are model viewsets for pratice
 
 class StreamPlatformViewSets(ModelViewSet):
     queryset = StreamPlatform.objects.all()
     serializer_class = StreamPlatformSerializer
+    permission_classes = [AdminOrReadOnly]
 
 
 class WatchlistViewSet(ModelViewSet):
     queryset = WatchList.objects.all()
     serializer_class = WatchListSerializer
-    permission_classes = [IsAuthenticatedOrReadOnly]
+    permission_classes = [AdminOrReadOnly]
 
 
 class UserReview(ListAPIView):
+    permission_classes = [IsAuthenticatedOrReadOnly]
     serializer_class = ReviewSerializer
 
     def get_queryset(self):
@@ -31,7 +34,7 @@ class ReviewList(ListAPIView, CreateAPIView):
     queryset = Review.objects.all()
     serializer_class = ReviewSerializer
     permission_classes = [IsAuthenticatedOrReadOnly]
-    
+
     def get_queryset(self):
         pk = self.kwargs['pk']
         return Review.objects.filter(watchlist=pk)
@@ -56,14 +59,14 @@ class ReviewCreate(CreateAPIView):
         if watchlist.number_rating == 0:
             watchlist.avg_rating = serializer.validated_data['rating']
         else:
-            watchlist.avg_review = (watchlist.avg_review + serializer.validated_data['rating'])/2
-        watchlist.number_rating =  watchlist.number_rating + 1
+            watchlist.avg_rating = (watchlist.avg_rating + serializer.validated_data['rating']) / 2
+        watchlist.number_rating = watchlist.number_rating + 1
         watchlist.save()
         serializer.save(watchlist=watchlist, review_user=review_user)
 
 
-
 # TODO: This are the viewsets for routers practice.
+
 """
 
 class ReviewViewSet(ViewSet):
@@ -167,12 +170,6 @@ class WatchDetailAV(DestroyAPIView, UpdateAPIView, RetrieveAPIView):
     serializer_class = WatchListSerializer
 
 """
-
-
-
-
-
-
 
 """
 
