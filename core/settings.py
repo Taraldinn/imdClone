@@ -147,4 +147,14 @@ REST_FRAMEWORK = {
         'rest_framework_simplejwt.authentication.JWTAuthentication'
 
     ],
+
+    'DEFAULT_THROTTLE_RATES': {
+        'anon': '1/day',
+        'user': '5/day'
+    }
 }
+
+SIMPLE_JWT = {
+    "ROTATE_REFRESH_TOKENS": True,
+}
+

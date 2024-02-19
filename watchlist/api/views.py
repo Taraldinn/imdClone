@@ -3,8 +3,9 @@ from watchlist.api.serializers import ReviewSerializer, StreamPlatformSerializer
 from watchlist.models import Review, StreamPlatform, WatchList
 from rest_framework.viewsets import ModelViewSet
 from rest_framework.generics import CreateAPIView, ListAPIView, DestroyAPIView, UpdateAPIView, RetrieveAPIView
-from rest_framework.permissions import IsAuthenticatedOrReadOnly
+from rest_framework.permissions import IsAuthenticatedOrReadOnly, IsAuthenticated
 from rest_framework.exceptions import ValidationError
+from rest_framework.throttling import AnonRateThrottle, UserRateThrottle
 
 
 # TODO: This are model viewsets for pratice
@@ -44,6 +45,7 @@ class ReviewDetail(DestroyAPIView, UpdateAPIView, RetrieveAPIView):
     queryset = Review.objects.all()
     serializer_class = ReviewSerializer
     permission_classes = [ReviewUserOrReadOnly]
+    throttle_classes = [AnonRateThrottle, UserRateThrottle]
 
 
 class ReviewCreate(CreateAPIView):
