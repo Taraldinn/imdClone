@@ -1,11 +1,13 @@
+from watchlist.api.throtlling import ReviewCreateThrottle
 from watchlist.api.permissions import ReviewUserOrReadOnly, AdminOrReadOnly
 from watchlist.api.serializers import ReviewSerializer, StreamPlatformSerializer, WatchListSerializer
 from watchlist.models import Review, StreamPlatform, WatchList
 from rest_framework.viewsets import ModelViewSet
 from rest_framework.generics import CreateAPIView, ListAPIView, DestroyAPIView, UpdateAPIView, RetrieveAPIView
-from rest_framework.permissions import IsAuthenticatedOrReadOnly, IsAuthenticated
+from rest_framework.permissions import IsAuthenticatedOrReadOnly
 from rest_framework.exceptions import ValidationError
 from rest_framework.throttling import AnonRateThrottle, UserRateThrottle
+from watchlist.api.throtlling import ReviewCreateThrottle
 
 
 # TODO: This are model viewsets for pratice
@@ -35,6 +37,7 @@ class ReviewList(ListAPIView, CreateAPIView):
     queryset = Review.objects.all()
     serializer_class = ReviewSerializer
     permission_classes = [IsAuthenticatedOrReadOnly]
+    throttle_classes = [AnonRateThrottle, ReviewCreateThrottle]
 
     def get_queryset(self):
         pk = self.kwargs['pk']

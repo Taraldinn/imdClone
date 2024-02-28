@@ -47,4 +47,6 @@ urlpatterns = [
     path('redoc/', schema_view.with_ui('redoc', cache_timeout=0), name='schema-redoc'),
     path("watch/", include('watchlist.api.urls')),
     path("account/", include('user_app.api.urls')),
+    path("__debug__/", include("debug_toolbar.urls")),
+
 ]
