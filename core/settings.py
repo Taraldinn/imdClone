@@ -45,6 +45,7 @@ INSTALLED_APPS = [
     'rest_framework.authtoken', # new
     'rest_framework_swagger',
     'drf_yasg',
+    'django_filters',
     "debug_toolbar",
     'watchlist',
 ]
@@ -160,7 +161,16 @@ REST_FRAMEWORK = {
         'review-create': '1/day',
         'review-list': '10/day',
 
-    }
+    },
+    'DEFAULT_PAGINATION_CLASS': 'rest_framework.pagination.LimitOffsetPagination',
+    'PAGE_SIZE': 10,
+    'DEFAULT_FILTER_BACKENDS': (
+        'django_filters.rest_framework.DjangoFilterBackend',
+
+    ),
+    'DEFAULT_RENDERER_CLASSES' : (
+        'rest_framework.renderers.JSONRenderer',
+    )
 }
 
 SIMPLE_JWT = {
